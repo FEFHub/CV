@@ -1,0 +1,26 @@
+body {
+  background-color: #F0F8FF;
+}
+h4{
+  color: #7B68EE;
+}
+h1{
+  color: #00CED1;
+}
+thead{
+  font-style: italic;
+}
+hr {
+  border-style: none;
+  border-bottom-style: dotted;
+  border-color: #ab99;
+  border-width: 5px;
+  width: 10%;
+}
+img {
+  height: 200px;
+  width: 190px;
+}
+th{
+  color: #20B2AA;
+}
